@@ -1,0 +1,31 @@
+baseURL: "http://me.renj.io"
+languageCode: "zh-CN"
+title: "Resume Renj.io"
+theme: "PagerMod"
+params:
+  profileMode:
+    enabled: true
+    title: "你好😎, 我是Renj Liao"
+    subtitle: "我是一名web开发工程师"
+    imageUrl: "/origin.jpg"
+    imageTitle: "avatar"
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: Hello, 了解一下
+        url: /hello/
+  socialIcons:
+    - name: github
+      url: https://github.com/landers1037
+    - name: email
+      url: mailto@liaorenj@gmail.com
+    - name: stackoverflow
+      url: https://stackoverflow.com/users/11940188/landers1037
+    - name: steam
+      url: https://steamcommunity.com/id/pipi831143
+    - name: facebook
+      url: https://fb.me/landers1037
+    - name: youtube
+      url: https://www.youtube.com/channel/UCAvTanPSk_wl_2V-EpUfJiA
+    - name: telegram
+      url: https://t.me/Greatpipi
